@@ -18,5 +18,8 @@
     <ClCompile Include="분해합.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="일곱난쟁이.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
