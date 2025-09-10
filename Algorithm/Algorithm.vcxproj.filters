@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="분해합.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="일곱난쟁이.c">
+    <ClCompile Include="유레카.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
