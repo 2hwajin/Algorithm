@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="유레카.c">
+    <ClCompile Include="앉았다.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
