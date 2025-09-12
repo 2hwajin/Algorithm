@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="숫자정사각형.c">
+    <ClCompile Include="체스판.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
